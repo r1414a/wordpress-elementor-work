@@ -14,3 +14,4 @@ Below is the list of websites I have worked on...
 3. InspireXt :- <a href="https://inspirext.com" target="_blank">https://inspirext.com</a>
 4. Antriksh Global :- <a href="https://antrikshglobal.com" target="_blank">https://antrikshglobal.com</a>
 5. Chemispan :- <a href="https://chemispan.com" target="_blank">https://chemispan.com</a>
+6. MAKConferences :- <a href="https://makconferences.com" target="_blank">https://makconferences.com</a>
