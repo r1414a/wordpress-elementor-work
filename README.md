@@ -10,3 +10,7 @@ Below is the list of Landing pages I have worked on...
 Below is the list of websites I have worked on...
 1. Tulsi academy :- <a href="https://tulsiacademy.com" target="_blank">https://tulsiacademy.com/</a>
 2. Swapnil Agro & Poultry :- <a href="https://swapnilagro.com/" target="_blank">https://swapnilagro.com/</a>
+3. Tayades Pathlab :- <a href="https://www.tayadespathlab.com" target="_blank">https://www.tayadespathlab.com</a>
+3. InspireXt :- <a href="https://inspirext.com" target="_blank">https://inspirext.com</a>
+4. Antriksh Global :- <a href="https://antrikshglobal.com" target="_blank">https://antrikshglobal.com</a>
+5. Chemispan :- <a href="https://chemispan.com" target="_blank">https://chemispan.com</a>
