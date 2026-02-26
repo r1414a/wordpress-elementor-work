@@ -8,7 +8,7 @@ Below is the list of Landing pages I have worked on...
 5. Creatio Makconferences :- <a href="https://creatio.makconferences.com/" target="_blank">https://creatio.makconferences.com/</a>
 
 Below is the list of websites I have worked on...
-1. Tulsi academy :- <a href="https://tulsiacademy.com" target="_blank">https://tulsiacademy.com/</a>
+1. Graceful Nurture:- <a href="https://gracefulnurture.com" target="_blank">https://gracefulnurture.com/</a>
 2. Swapnil Agro & Poultry :- <a href="https://swapnilagro.com/" target="_blank">https://swapnilagro.com/</a>
 3. Tayades Pathlab :- <a href="https://www.tayadespathlab.com" target="_blank">https://www.tayadespathlab.com</a>
 3. InspireXt :- <a href="https://inspirext.com" target="_blank">https://inspirext.com</a>
